@@ -1,5 +1,5 @@
+// PromptSync package is used to take user input from the console
 import PromptSync from "prompt-sync";
-
 function reverseString(arr){
     let ans="";
     const newArr=arr.split(" ");

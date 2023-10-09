@@ -1,3 +1,4 @@
+// PromptSync package is used to take user input from the console
 import PromptSync from "prompt-sync";
 function sortInDesc(arr){
     return arr.sort((a,b) => b - a);

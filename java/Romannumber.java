@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class Solution {
+public class Romannumber {
     public static int getIntegerFromRoman(String s) {
         HashMap<Character, Integer> map = new HashMap<>();
         map.put('I', 1);
